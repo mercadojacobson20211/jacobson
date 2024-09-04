@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 05 Sep 2024 00:58:02 at https://jacobson.framer.website/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jacobson.framer.website/ -O1 "C:\Users\merca\Downloads\HTTRACK\portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 47 seconds : 118 links scanned, 117 files written (42039820 bytes overall) [37664049 bytes received at 801362 bytes/sec], 5114646 bytes transferred using HTTP compression in 27 files, ratio 11%, 3.6 requests per connection
+(No errors, 0 warnings, 0 messages)
